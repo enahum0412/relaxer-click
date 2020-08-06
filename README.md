@@ -3,3 +3,4 @@ Relaxer is a simple example of a HTML/CSS + Vanilla JavaScript project created a
 
 # Technologies
 Relaxer uses HTML, CSS and Vanilla JavaScript to create the front-end design that you can see through the preview link below.
+https://relaxer-click.netlify.app
